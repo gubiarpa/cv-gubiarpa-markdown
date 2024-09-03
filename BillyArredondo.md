@@ -10,15 +10,25 @@ Collaboration is key to my approach, and He is dedicated to fostering teamwork t
 
 ## Working History
 
-### Full Stack Developer Sr.
-**Acklen Avenue**
+### Acklen Avenue
+**Full Stack Developer Sr.**\
 _2023 - Present_
-
 Acklen Avenue is a Nashville-based software development firm, offering agile solutions with global teams since 2010
 
-_Project_
+**Project**
 - Enhanced product features and integrated functionalities by leveraging both internal and external services, with a focus on Microservices architecture using .NET 6.
 - Utilized Docker for containerization and Kubernetes for orchestration, ensuring scalable, resilient, and efficient service deployments. Integrated Cosmos DB for managing globally distributed, multi-model databases.
 - Contributed to the development of new features and the resolution of bugs in the production environment, ensuring continuous improvement and stability.
 - Implemented performance optimization strategies, including efficient browser memory utilization, local storage for non-sensitive recurring data, and creating targeted indexes on table columns based on application design and usage patterns.
-- Technologies: .Net Framework, .NET 6, EF Core, React.js TypeScript, WebForms, Swagger, Azure DevOps, Azure SQL Database, Azure Cosmos DB, Azure Application 
+- Technologies:
+  - .Net Framework
+  - .NET 6
+  - EF Core
+  - React.js
+  - TypeScript
+  - WebForms
+  - Swagger
+  - Azure DevOps
+  - Azure SQL Database
+  - Azure Cosmos DB
+  - Azure Application
