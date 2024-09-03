@@ -21,14 +21,45 @@ Acklen Avenue is a Nashville-based software development firm, offering agile sol
 - Contributed to the development of new features and the resolution of bugs in the production environment, ensuring continuous improvement and stability.
 - Implemented performance optimization strategies, including efficient browser memory utilization, local storage for non-sensitive recurring data, and creating targeted indexes on table columns based on application design and usage patterns.
 - Technologies:
-  - .Net Framework
-  - .NET 6
+  - NET Framework
+  - NET 6
   - EF Core
-  - React.js
+  - React
   - TypeScript
   - WebForms
   - Swagger
   - Azure DevOps
   - Azure SQL Database
   - Azure Cosmos DB
-  - Azure Application
+  - Azure Application Insights
+
+### Globant
+**Full Stack Developer Sr.**\
+_2021 - 2023_
+Globant is a digital consultancy firm that specializes in AI-driven software development and technology solutions. They help organizations worldwide with digital transformation, working across various industries to deliver innovative products and services.
+
+**Project**
+- Enhanced a personnel management application by resolving issues, synchronizing databases, and reducing technical debt.
+- Deployed and scaled services for reliable operation.
+- Managed distributed data and maintained consistency across regions.
+- Implemented event-driven communication for seamless integration.
+- Optimized performance and reduced technical debt by addressing bottlenecks.
+- Improved hierarchical management with a configurable recursive solution, boosting performance by over 90%.
+- Technologies:
+  - NET 6
+  - MVC
+  - React
+  - Express
+  - TypeScript
+  - JavaScript
+  - WCF
+  - Azure SQL Database
+  - Azure Blob Storage
+  - Azure Service Bus
+  - Azure Functions
+  - DevOps
+  - Node
+  - NestJS
+  - Swagger
+  - AWS S3
+  - RabbitMQ
