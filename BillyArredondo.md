@@ -1,0 +1,24 @@
+# Billy Arredondo
+**Sr .NET FullStack Developer**
+
+## Summary
+Billy is a highly skilled Full Stack Developer with over 10 years of experience, specializing in .NET and JavaScript. With a strong engineering background, He has delivered impactful solutions across diverse sectors, consistently developing scalable and efficient applications.
+
+He excels in adapting quickly to various scenarios and achieving high performance in challenging environments. His problem-solving skills and commitment to continuous learning make his solutions innovative and effective.
+
+Collaboration is key to my approach, and He is dedicated to fostering teamwork to maximize project value. By working closely with cross-functional teams, He consistently delivers results that exceed expectations and drive successful project outcomes.
+
+## Working History
+
+### Full Stack Developer Sr.
+**Acklen Avenue**
+_2023 - Present_
+
+Acklen Avenue is a Nashville-based software development firm, offering agile solutions with global teams since 2010
+
+_Project_
+- Enhanced product features and integrated functionalities by leveraging both internal and external services, with a focus on Microservices architecture using .NET 6.
+- Utilized Docker for containerization and Kubernetes for orchestration, ensuring scalable, resilient, and efficient service deployments. Integrated Cosmos DB for managing globally distributed, multi-model databases.
+- Contributed to the development of new features and the resolution of bugs in the production environment, ensuring continuous improvement and stability.
+- Implemented performance optimization strategies, including efficient browser memory utilization, local storage for non-sensitive recurring data, and creating targeted indexes on table columns based on application design and usage patterns.
+- Technologies: .Net Framework, .NET 6, EF Core, React.js TypeScript, WebForms, Swagger, Azure DevOps, Azure SQL Database, Azure Cosmos DB, Azure Application 
