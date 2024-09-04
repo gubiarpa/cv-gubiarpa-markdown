@@ -100,3 +100,18 @@ Full Stack Developer Senior _(2018 - 2019)_
   - Node
   - React
   - JavaScript
+
+### Chain Services TI
+Full Stack Developer Senior _(2016 - 2018)_
+> It provides IT solutions and consulting to optimize technology infrastructure for businesses.
+
+**Project**
+- Developing maintenance solutions for .NET applications and SQL Server databases.
+- Implementing integrations between legacy systems using Windows Services, Web Services, and REST APIs.
+- Optimizing database resource consumption by a factor of 60, reducing processing time from 5 minutes to less than 5 seconds.
+- Technologies:
+  - ASP.Net MVC
+  - ASP.Net Webforms
+  - Visual Basic 6.0
+  - WCF
+  - ASP.Net Web API
