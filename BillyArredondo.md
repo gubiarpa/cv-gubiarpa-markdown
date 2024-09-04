@@ -83,3 +83,20 @@ Full Stack Developer Senior _(2019 - 2021)_
   - Azure Blob Storage
   - SQL Server
   - SQL Server Reporting Services
+
+### Manpower Experis
+Full Stack Developer Senior _(2018 - 2019)_
+> It offers recruitment and staffing solutions, including temporary and permanent placements, and workforce management services.
+
+**Project**
+- In my role, I maintained and enhanced systems for a leading fast food representative in Peru, affiliated with brands like KFC, Starbucks, Pizza Hut, Burger King, and Chili's, using WCF and ASP.Net Web API.
+- I developed solutions with Windows Services and Web Services to implement innovative proposals from functional analysts. A key achievement was integrating React.js for form validations, reducing validation time by 97.6%, from 30 seconds to 0.8 seconds.
+- Technologies:
+  - ASP.Net MVC
+  - ASP.Net Webforms
+  - WCF
+  - WPF
+  - ASP.Net Web API
+  - Node
+  - React
+  - JavaScript
